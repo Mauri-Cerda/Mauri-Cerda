@@ -11,7 +11,7 @@ Hola es gusto poder presentarme y que conozcan cómo me introduje a este mundo d
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Mauri-Cerda)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https:)
 [![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UCs5BQZojpNwRLC6JzyH1yxQ)
-[![Gmail](https://img.shields.io/badge/-Gmail-yellow?style=flat&logo=appveyor&logoColor=white)](h.cerda.coder@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-yellow?style=flat&logo=appveyor&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 
 ---
 ## 👨‍💻 About Me :
