@@ -16,11 +16,11 @@ Hola es gusto poder presentarme y que conozcan cómo me introduje a este mundo d
 ---
 ## 👨‍💻 About Me :
 
-- 💬 Me gusta habalr sobre **PHP, Python, Javascript**
+- 💬 Me gusta hablar sobre **PHP, Python, Javascript**
 
 - 📫 Contacto **cerdamauricio94@gmail.com**
 
-- 🌱 Actualmente estoy aprendiendo **HTML5, CSS3**
+- 🌱 Actualmente estoy aprendiendo **HTML5, CSS3, Python y JavaScript**
 
 - 🌐 Website https://www.facebook.com/maury.cerda
 
