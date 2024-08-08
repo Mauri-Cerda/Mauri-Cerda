@@ -2,8 +2,11 @@
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Mauricio Cerda</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/weNbhGZ.png">
-<h3 align="center">Hola es gusto poder presentarme y que conozcan cómo me introduje a este mundo de las tecnologías como la programación y la telecomunicaciones, dos ramas que me apasionan. Sin muchas mas palabras, espero que tu visita sea de agrado, Gracias y Saludos! </h3>
+<h3 align="center">
+Hola es gusto poder presentarme y que conozcan cómo me introduje a este mundo de las tecnologías como la programación y la telecomunicaciones, dos ramas que me apasionan. Sin muchas mas palabras, espero que tu visita sea de agrado, Gracias y Saludos! 
+</h3>
 ---
+
 [![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://mauri-cerda.github.io/mc.github.io/)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Mauri-Cerda)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https:)
