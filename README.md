@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Mauricio Cerda</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="https://drive.google.com/drive/u/0/folders/0B8CUXSLFlQ3INXczN3JWa243NGc?resourcekey=0-Bg4IYD00fTeS0QNRtNzpjA">
 <h3 align="center">
 Hola es gusto poder presentarme y que conozcan cómo me introduje a este mundo de las tecnologías como la programación y la telecomunicaciones, dos ramas que me apasionan. Sin muchas mas palabras, espero que tu visita sea de agrado, Gracias y Saludos! 
 </h3>
